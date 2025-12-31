@@ -22,6 +22,3 @@ Twitter sentiment dataset containing tweet text, topic, and sentiment labels.
 - Positive sentiment dominates across most topics.
 - Neutral sentiment indicates mixed opinions.
 - Negative sentiment is comparatively lower.
-
-## Author
-Bhoomika K T
